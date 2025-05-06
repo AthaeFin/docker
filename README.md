@@ -9,6 +9,9 @@ Pähkäilin pitkään, mitä lähtisin palvelinten hallinta -kurssilla tekemää
 
 Toisinsanoen halusin löytää keinon, jolla edellisen kurssin projektin voi hoitaa 'laiskasti', monta kertaa toistettavasti, ja jossa ihmisen virheen mahdollisuus jää pieneksi.
 
+Aloita vaiheesta 1, ja jatka vaiheeseen 2. Tarvittavat konfigurointitiedostot löytyvät vasemmalta niiden omalla nimellä. 
+Koko projekti on testattu omalla koneella toimivasti 3 kertaa alusta loppuun. Kaikkia kirjoitusvirheitä en ole kirjannut, mutta suurimmat kompastuskivet olen maininnut. 
+
 Koko projektiin meni aikaa n. 16 tuntia mukaanlukien dokumentointi. 
 
 
