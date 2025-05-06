@@ -3,6 +3,14 @@
 
 salt master ja minion, docker, portainer, wp ja db muutamalla potkaisukomennolla
 
+## Miniprojektin alku
+
+Pähkäilin pitkään, mitä lähtisin palvelinten hallinta -kurssilla tekemään projektiksi, ja lopulta päädyin samaan projektiin, jonka tein Linux-serverit -kurssilla, pienellä twistillä. Tavoitteena on saavuttaa sama lopputulos kuin edellisessä projektissa, mutta toteuttaa se muutamalla compose-komennolla. Salt (Master) asentaa Dockerin init.sls -tiedoston avulla Minion-koneelle, ja sen jälkeen minionilla Docker asentaa Portainerin, WordPressin ja sen käyttämän tietokannan. 
+
+Toisinsanoen halusin löytää keinon, jolla edellisen kurssin projektin voi hoitaa 'laiskasti', monta kertaa toistettavasti, ja jossa ihmisen virheen mahdollisuus jää pieneksi.
+
+
+
 lähteet:
 
 Tero Karvinen 2025, h5 miniprojekti. Luettavissa:
