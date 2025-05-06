@@ -9,6 +9,8 @@ Pähkäilin pitkään, mitä lähtisin palvelinten hallinta -kurssilla tekemää
 
 Toisinsanoen halusin löytää keinon, jolla edellisen kurssin projektin voi hoitaa 'laiskasti', monta kertaa toistettavasti, ja jossa ihmisen virheen mahdollisuus jää pieneksi.
 
+Koko projektiin meni aikaa n. 16 tuntia mukaanlukien dokumentointi. 
+
 
 
 lähteet:
