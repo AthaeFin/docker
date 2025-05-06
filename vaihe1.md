@@ -56,6 +56,11 @@ eli init.sls -tiedostoon voi listata ca-certificates ja curl riippuvuuksiksi, ta
 Succeeded: 10 (changed=4) kertoo, että turhaa tavaraa init.sls -tiedostossa on vielä, perkaan pois jos aikaa jää jäljelle. Miesvaiva idempotentti siis toimii
 ja kalastusvene on valmiina ottamaan kontteja vastaan, toivotaan että ei mene poikittain kanavaan jumiin :)
 
+    sudo salt '*' state.apply docker
+    
+![image](https://github.com/user-attachments/assets/5c759362-18fd-4991-8047-4b4133487bd9)
+
+
 
 
 
